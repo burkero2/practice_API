@@ -1,0 +1,19 @@
+.container{
+    width: 220px;
+    margin: 0px auto;
+    text-align: center;
+    border: solid grey 1px;
+    font-family: "montserrat","arial", "sans-serif";
+    padding: 10px;
+}
+
+img{
+    width: 50%;
+    margin: 0px auto;
+}
+
+h1{
+    margin-bottom: 0px;
+    margin-top: 10px;
+}
+
